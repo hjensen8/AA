@@ -18,4 +18,5 @@ $endTsUtc = (Get-Date).ToUniversalTime()
 
 $delay = ([Math]::Round(($endTsUtc -$startTsUtc).TotalSeconds)).ToString()
 ((Get-Date).ToString() + " " + $delay + " " )
+"test"
 
