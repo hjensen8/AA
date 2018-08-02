@@ -11,4 +11,3 @@ $SCRunbookResult = [PSCustomObject]@{
     Input        = ([hashtable] $PSBoundParameters)
 }
 $SCRunbookResult
-# Dummy note
