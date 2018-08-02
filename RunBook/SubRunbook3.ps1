@@ -11,3 +11,4 @@ $SCRunbookResult = [PSCustomObject]@{
     Input        = ([hashtable] $PSBoundParameters)
 }
 $SCRunbookResult
+"Extra sub3 output"
